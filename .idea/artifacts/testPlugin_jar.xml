@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="testPlugin:jar">
+    <output-path>$USER_HOME$/Documents/Minecraft/BukkitServer/Spigot/plugins</output-path>
+    <root id="archive" name="testPlugin.jar">
+      <element id="module-output" name="testPlugin" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/Minecraft/BukkitServer/spigot-api-1.14.2-R0.1-20190527.214800-1-shaded.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

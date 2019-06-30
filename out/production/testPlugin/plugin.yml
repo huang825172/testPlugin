@@ -1,0 +1,12 @@
+name: testPlugin
+version: 0.1
+author: huang825172
+main: huang825172.seybox.testPlugin.testPlugin
+api-version: 1.14
+commands:
+  hello:
+    description: say hello
+    usage: /hello word
+  demo:
+    description: special
+    usage: /demo
